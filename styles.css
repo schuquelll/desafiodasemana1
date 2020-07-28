@@ -1,0 +1,69 @@
+body {
+    width: 960px;
+    margin: auto;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: #1A98F6;
+    text-align: center;
+    }
+.citação {
+    text-align: center;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: #9BCDFF;
+    text-align: center;
+    width: 150px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:19px;
+    text-align: justify;
+}
+.conteudo {
+    display: table;
+}
+.icone {
+    display: table-cell;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.texto {
+    display: table-cell;
+    float: left;
+    width: 609px;
+    margin-left: 40px;
+}
+.topico {
+    font-size: 17px;
+    width: 700px;
+    text-align: justify;
+}
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: #42AAF8;
+    text-align: center;
+    width: 35px;
+    font-size: medium;
+}
+h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: #42AAF8;
+    text-align: center;
+    width: 35px;
+    font-size: medium;
+}
+.subtopicos{
+    margin-left: 40px;
+}
+.subtopico {
+    width: 660px;
+    font-size: 17px;
+    text-align: justify;
+}
